@@ -14,4 +14,8 @@ This project demonstrates a simple QR code generator built using HTML and CSS. T
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/qr-code-generator.git
+2. Navigate to the project directory
+   ```bash
+   cd qr-code-generator
+3. Open index.html in your web browser to view the QR code
 
